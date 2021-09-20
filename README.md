@@ -1,1 +1,1 @@
-# AngularJS_Tour_Of_Heroes
+# Angular-Tour-Of-Heroes
